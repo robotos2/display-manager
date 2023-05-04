@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=SDDM RobotOS
+Description=SDDM theme for RobotOS
+Author=Juan Caser
+Copyright=Copyright (C) 2023 Juan Caser
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.2
+Website=https://github.com/BoredEngineer
+Screenshot=Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=im.jan.caser@gmail.com
+Theme-Id=sddm-robot
+Theme-API=2.11
